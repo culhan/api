@@ -1,5 +1,12 @@
-.php_cs.cache
-composer.lock
-phpunit.xml
-storage
-vendor
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
